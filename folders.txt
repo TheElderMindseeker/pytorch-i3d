@@ -1,0 +1,7 @@
+/home/daniil/Documents/Projects/University/Thesis/GTA_dataset/Arrest
+/home/daniil/Documents/Projects/University/Thesis/GTA_dataset/Arson
+/home/daniil/Documents/Projects/University/Thesis/GTA_dataset/Explosion
+/home/daniil/Documents/Projects/University/Thesis/GTA_dataset/Fight
+/home/daniil/Documents/Projects/University/Thesis/GTA_dataset/Robbery
+/home/daniil/Documents/Projects/University/Thesis/GTA_dataset/Shooting
+/home/daniil/Documents/Projects/University/Thesis/GTA_dataset/Vandalism

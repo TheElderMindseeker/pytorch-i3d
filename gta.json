@@ -1,0 +1,5403 @@
+{
+  "Arrest8": {
+    "subset": "training",
+    "duration": 26.645313,
+    "actions": [
+      [
+        0,
+        0,
+        26.645313
+      ]
+    ]
+  },
+  "Arrest7": {
+    "subset": "training",
+    "duration": 26.645313,
+    "actions": [
+      [
+        0,
+        0,
+        26.645313
+      ]
+    ]
+  },
+  "Arrest6": {
+    "subset": "testing",
+    "duration": 26.645313,
+    "actions": [
+      [
+        0,
+        0,
+        26.645313
+      ]
+    ]
+  },
+  "Arrest 11": {
+    "subset": "training",
+    "duration": 30.954646,
+    "actions": [
+      [
+        0,
+        0,
+        30.954646
+      ]
+    ]
+  },
+  "Arrest 14": {
+    "subset": "training",
+    "duration": 30.954646,
+    "actions": [
+      [
+        0,
+        0,
+        30.954646
+      ]
+    ]
+  },
+  "Arrest 12": {
+    "subset": "training",
+    "duration": 30.954646,
+    "actions": [
+      [
+        0,
+        0,
+        30.954646
+      ]
+    ]
+  },
+  "Arrest 13": {
+    "subset": "training",
+    "duration": 30.954646,
+    "actions": [
+      [
+        0,
+        0,
+        30.954646
+      ]
+    ]
+  },
+  "Arrest 15": {
+    "subset": "training",
+    "duration": 30.954646,
+    "actions": [
+      [
+        0,
+        0,
+        30.954646
+      ]
+    ]
+  },
+  "Arrest22": {
+    "subset": "testing",
+    "duration": 30.271979,
+    "actions": [
+      [
+        0,
+        0,
+        30.271979
+      ]
+    ]
+  },
+  "Arrest 3*": {
+    "subset": "training",
+    "duration": 3.8545,
+    "actions": [
+      [
+        0,
+        0,
+        3.8545
+      ]
+    ]
+  },
+  "Arrest 6*": {
+    "subset": "testing",
+    "duration": 3.8545,
+    "actions": [
+      [
+        0,
+        0,
+        3.8545
+      ]
+    ]
+  },
+  "Arrest 4*": {
+    "subset": "testing",
+    "duration": 3.784833,
+    "actions": [
+      [
+        0,
+        0,
+        3.784833
+      ]
+    ]
+  },
+  "Arrest 1*": {
+    "subset": "training",
+    "duration": 3.8545,
+    "actions": [
+      [
+        0,
+        0,
+        3.8545
+      ]
+    ]
+  },
+  "Arrest 7*": {
+    "subset": "training",
+    "duration": 3.8545,
+    "actions": [
+      [
+        0,
+        0,
+        3.8545
+      ]
+    ]
+  },
+  "Arrest 5*": {
+    "subset": "training",
+    "duration": 3.808067,
+    "actions": [
+      [
+        0,
+        0,
+        3.808067
+      ]
+    ]
+  },
+  "Arrest 2*": {
+    "subset": "testing",
+    "duration": 3.8545,
+    "actions": [
+      [
+        0,
+        0,
+        3.8545
+      ]
+    ]
+  },
+  "Arrest13": {
+    "subset": "testing",
+    "duration": 7.007688,
+    "actions": [
+      [
+        0,
+        0,
+        7.007688
+      ]
+    ]
+  },
+  "Arrest16": {
+    "subset": "training",
+    "duration": 15.807979,
+    "actions": [
+      [
+        0,
+        0,
+        15.807979
+      ]
+    ]
+  },
+  "Arrest15": {
+    "subset": "training",
+    "duration": 7.080729,
+    "actions": [
+      [
+        0,
+        0,
+        7.080729
+      ]
+    ]
+  },
+  "Arrest14": {
+    "subset": "training",
+    "duration": 6.964479,
+    "actions": [
+      [
+        0,
+        0,
+        6.964479
+      ]
+    ]
+  },
+  "Arrest10": {
+    "subset": "training",
+    "duration": 23.295979,
+    "actions": [
+      [
+        0,
+        0,
+        23.295979
+      ]
+    ]
+  },
+  "Arrest9": {
+    "subset": "testing",
+    "duration": 23.295979,
+    "actions": [
+      [
+        0,
+        0,
+        23.295979
+      ]
+    ]
+  },
+  "Arrest12": {
+    "subset": "training",
+    "duration": 23.295979,
+    "actions": [
+      [
+        0,
+        0,
+        23.295979
+      ]
+    ]
+  },
+  "Arrest11": {
+    "subset": "training",
+    "duration": 23.295979,
+    "actions": [
+      [
+        0,
+        0,
+        23.295979
+      ]
+    ]
+  },
+  "Arrest 39": {
+    "subset": "training",
+    "duration": 50.538646,
+    "actions": [
+      [
+        0,
+        0,
+        50.538646
+      ]
+    ]
+  },
+  "Arrest 36": {
+    "subset": "training",
+    "duration": 53.845313,
+    "actions": [
+      [
+        0,
+        0,
+        53.845313
+      ]
+    ]
+  },
+  "Arrest 37": {
+    "subset": "testing",
+    "duration": 64.277313,
+    "actions": [
+      [
+        0,
+        0,
+        64.277313
+      ]
+    ]
+  },
+  "Arrest 38": {
+    "subset": "training",
+    "duration": 51.605313,
+    "actions": [
+      [
+        0,
+        0,
+        51.605313
+      ]
+    ]
+  },
+  "Arrest 40": {
+    "subset": "training",
+    "duration": 58.773313,
+    "actions": [
+      [
+        0,
+        0,
+        58.773313
+      ]
+    ]
+  },
+  "Arrest 24": {
+    "subset": "training",
+    "duration": 20.543979,
+    "actions": [
+      [
+        0,
+        0,
+        20.543979
+      ]
+    ]
+  },
+  "Arrest 23": {
+    "subset": "testing",
+    "duration": 20.543979,
+    "actions": [
+      [
+        0,
+        0,
+        20.543979
+      ]
+    ]
+  },
+  "Arrest 25": {
+    "subset": "testing",
+    "duration": 20.543979,
+    "actions": [
+      [
+        0,
+        0,
+        20.543979
+      ]
+    ]
+  },
+  "Arrest 22": {
+    "subset": "training",
+    "duration": 20.543979,
+    "actions": [
+      [
+        0,
+        0,
+        20.543979
+      ]
+    ]
+  },
+  "Arrest 21": {
+    "subset": "training",
+    "duration": 20.543979,
+    "actions": [
+      [
+        0,
+        0,
+        20.543979
+      ]
+    ]
+  },
+  "Arrest 9": {
+    "subset": "testing",
+    "duration": 17.322646,
+    "actions": [
+      [
+        0,
+        0,
+        17.322646
+      ]
+    ]
+  },
+  "Arrest 7": {
+    "subset": "training",
+    "duration": 10.901313,
+    "actions": [
+      [
+        0,
+        0,
+        10.901313
+      ]
+    ]
+  },
+  "Arrest 10": {
+    "subset": "training",
+    "duration": 11.669313,
+    "actions": [
+      [
+        0,
+        0,
+        11.669313
+      ]
+    ]
+  },
+  "Arrest 8": {
+    "subset": "training",
+    "duration": 10.154646,
+    "actions": [
+      [
+        0,
+        0,
+        10.154646
+      ]
+    ]
+  },
+  "Arrest 6": {
+    "subset": "training",
+    "duration": 20.863979,
+    "actions": [
+      [
+        0,
+        0,
+        20.863979
+      ]
+    ]
+  },
+  "Arrest 27": {
+    "subset": "testing",
+    "duration": 23.530646,
+    "actions": [
+      [
+        0,
+        0,
+        23.530646
+      ]
+    ]
+  },
+  "Arrest 28": {
+    "subset": "training",
+    "duration": 23.530646,
+    "actions": [
+      [
+        0,
+        0,
+        23.530646
+      ]
+    ]
+  },
+  "Arrest 26": {
+    "subset": "training",
+    "duration": 23.530646,
+    "actions": [
+      [
+        0,
+        0,
+        23.530646
+      ]
+    ]
+  },
+  "Arrest 30": {
+    "subset": "training",
+    "duration": 23.530646,
+    "actions": [
+      [
+        0,
+        0,
+        23.530646
+      ]
+    ]
+  },
+  "Arrest 29": {
+    "subset": "training",
+    "duration": 20.671979,
+    "actions": [
+      [
+        0,
+        0,
+        20.671979
+      ]
+    ]
+  },
+  "Arrest 34": {
+    "subset": "training",
+    "duration": 30.975979,
+    "actions": [
+      [
+        0,
+        0,
+        30.975979
+      ]
+    ]
+  },
+  "Arrest 31": {
+    "subset": "training",
+    "duration": 19.157313,
+    "actions": [
+      [
+        0,
+        0,
+        19.157313
+      ]
+    ]
+  },
+  "Arrest 35": {
+    "subset": "testing",
+    "duration": 30.975979,
+    "actions": [
+      [
+        0,
+        0,
+        30.975979
+      ]
+    ]
+  },
+  "Arrest 33": {
+    "subset": "training",
+    "duration": 30.975979,
+    "actions": [
+      [
+        0,
+        0,
+        30.975979
+      ]
+    ]
+  },
+  "Arrest 32": {
+    "subset": "training",
+    "duration": 30.975979,
+    "actions": [
+      [
+        0,
+        0,
+        30.975979
+      ]
+    ]
+  },
+  "Arrest 18": {
+    "subset": "training",
+    "duration": 22.271979,
+    "actions": [
+      [
+        0,
+        0,
+        22.271979
+      ]
+    ]
+  },
+  "Arrest 20": {
+    "subset": "training",
+    "duration": 22.271979,
+    "actions": [
+      [
+        0,
+        0,
+        22.271979
+      ]
+    ]
+  },
+  "Arrest 19": {
+    "subset": "training",
+    "duration": 22.271979,
+    "actions": [
+      [
+        0,
+        0,
+        22.271979
+      ]
+    ]
+  },
+  "Arrest 17": {
+    "subset": "training",
+    "duration": 22.271979,
+    "actions": [
+      [
+        0,
+        0,
+        22.271979
+      ]
+    ]
+  },
+  "Arrest 16": {
+    "subset": "testing",
+    "duration": 22.271979,
+    "actions": [
+      [
+        0,
+        0,
+        22.271979
+      ]
+    ]
+  },
+  "Arrest21": {
+    "subset": "training",
+    "duration": 14.034646,
+    "actions": [
+      [
+        0,
+        0,
+        14.034646
+      ]
+    ]
+  },
+  "Arrest19": {
+    "subset": "training",
+    "duration": 10.881354,
+    "actions": [
+      [
+        0,
+        0,
+        10.881354
+      ]
+    ]
+  },
+  "Arrest17": {
+    "subset": "training",
+    "duration": 11.434813,
+    "actions": [
+      [
+        0,
+        0,
+        11.434813
+      ]
+    ]
+  },
+  "Arrest20": {
+    "subset": "testing",
+    "duration": 14.205542,
+    "actions": [
+      [
+        0,
+        0,
+        14.205542
+      ]
+    ]
+  },
+  "Arrest18": {
+    "subset": "training",
+    "duration": 12.868278,
+    "actions": [
+      [
+        0,
+        0,
+        12.868278
+      ]
+    ]
+  },
+  "Arrest24": {
+    "subset": "training",
+    "duration": 30.271979,
+    "actions": [
+      [
+        0,
+        0,
+        30.271979
+      ]
+    ]
+  },
+  "Arrest23": {
+    "subset": "training",
+    "duration": 30.271979,
+    "actions": [
+      [
+        0,
+        0,
+        30.271979
+      ]
+    ]
+  },
+  "Arrest25": {
+    "subset": "testing",
+    "duration": 30.271979,
+    "actions": [
+      [
+        0,
+        0,
+        30.271979
+      ]
+    ]
+  },
+  "Arrest26": {
+    "subset": "testing",
+    "duration": 30.271979,
+    "actions": [
+      [
+        0,
+        0,
+        30.271979
+      ]
+    ]
+  },
+  "Alley 6*": {
+    "subset": "training",
+    "duration": 4.945833,
+    "actions": [
+      [
+        0,
+        0,
+        4.945833
+      ]
+    ]
+  },
+  "Alley 1*": {
+    "subset": "training",
+    "duration": 4.992267,
+    "actions": [
+      [
+        0,
+        0,
+        4.992267
+      ]
+    ]
+  },
+  "Alley 2*": {
+    "subset": "training",
+    "duration": 4.945833,
+    "actions": [
+      [
+        0,
+        0,
+        4.945833
+      ]
+    ]
+  },
+  "Alley 4*": {
+    "subset": "testing",
+    "duration": 4.992267,
+    "actions": [
+      [
+        0,
+        0,
+        4.992267
+      ]
+    ]
+  },
+  "Alley 3*": {
+    "subset": "training",
+    "duration": 4.945833,
+    "actions": [
+      [
+        0,
+        0,
+        4.945833
+      ]
+    ]
+  },
+  "Alley 5*": {
+    "subset": "training",
+    "duration": 5.0155,
+    "actions": [
+      [
+        0,
+        0,
+        5.0155
+      ]
+    ]
+  },
+  "Arrest 5": {
+    "subset": "training",
+    "duration": 13.973313,
+    "actions": [
+      [
+        0,
+        0,
+        13.973313
+      ]
+    ]
+  },
+  "Arrest 2": {
+    "subset": "training",
+    "duration": 14.399979,
+    "actions": [
+      [
+        0,
+        0,
+        14.399979
+      ]
+    ]
+  },
+  "Arrest 4": {
+    "subset": "training",
+    "duration": 16.469313,
+    "actions": [
+      [
+        0,
+        0,
+        16.469313
+      ]
+    ]
+  },
+  "Arrest 3": {
+    "subset": "training",
+    "duration": 22.677313,
+    "actions": [
+      [
+        0,
+        0,
+        22.677313
+      ]
+    ]
+  },
+  "Arrest 1": {
+    "subset": "training",
+    "duration": 13.119979,
+    "actions": [
+      [
+        0,
+        0,
+        13.119979
+      ]
+    ]
+  },
+  "Arson22": {
+    "subset": "training",
+    "duration": 28.351979,
+    "actions": [
+      [
+        1,
+        0,
+        28.351979
+      ]
+    ]
+  },
+  "Arson23": {
+    "subset": "training",
+    "duration": 28.351979,
+    "actions": [
+      [
+        1,
+        0,
+        28.351979
+      ]
+    ]
+  },
+  "Arson 26": {
+    "subset": "training",
+    "duration": 52.159979,
+    "actions": [
+      [
+        1,
+        0,
+        52.159979
+      ]
+    ]
+  },
+  "Arson 27": {
+    "subset": "testing",
+    "duration": 52.159979,
+    "actions": [
+      [
+        1,
+        0,
+        52.159979
+      ]
+    ]
+  },
+  "Arson 30": {
+    "subset": "testing",
+    "duration": 52.159979,
+    "actions": [
+      [
+        1,
+        0,
+        52.159979
+      ]
+    ]
+  },
+  "Arson 28": {
+    "subset": "training",
+    "duration": 52.159979,
+    "actions": [
+      [
+        1,
+        0,
+        52.159979
+      ]
+    ]
+  },
+  "Arson 29": {
+    "subset": "training",
+    "duration": 52.159979,
+    "actions": [
+      [
+        1,
+        0,
+        52.159979
+      ]
+    ]
+  },
+  "Arson 6": {
+    "subset": "training",
+    "duration": 13.461313,
+    "actions": [
+      [
+        1,
+        0,
+        13.461313
+      ]
+    ]
+  },
+  "Arson 8": {
+    "subset": "training",
+    "duration": 21.930646,
+    "actions": [
+      [
+        1,
+        0,
+        21.930646
+      ]
+    ]
+  },
+  "Arson 9": {
+    "subset": "training",
+    "duration": 21.930646,
+    "actions": [
+      [
+        1,
+        0,
+        21.930646
+      ]
+    ]
+  },
+  "Arson 10": {
+    "subset": "training",
+    "duration": 13.738646,
+    "actions": [
+      [
+        1,
+        0,
+        13.738646
+      ]
+    ]
+  },
+  "Arson 7": {
+    "subset": "testing",
+    "duration": 21.930646,
+    "actions": [
+      [
+        1,
+        0,
+        21.930646
+      ]
+    ]
+  },
+  "Arson12": {
+    "subset": "training",
+    "duration": 21.269313,
+    "actions": [
+      [
+        1,
+        0,
+        21.269313
+      ]
+    ]
+  },
+  "Arson13": {
+    "subset": "training",
+    "duration": 21.269313,
+    "actions": [
+      [
+        1,
+        0,
+        21.269313
+      ]
+    ]
+  },
+  "Arson11": {
+    "subset": "training",
+    "duration": 21.269313,
+    "actions": [
+      [
+        1,
+        0,
+        21.269313
+      ]
+    ]
+  },
+  "Fire 1*": {
+    "subset": "training",
+    "duration": 6.0604,
+    "actions": [
+      [
+        1,
+        0,
+        6.0604
+      ]
+    ]
+  },
+  "Fire 6*": {
+    "subset": "training",
+    "duration": 6.0836,
+    "actions": [
+      [
+        1,
+        0,
+        6.0836
+      ]
+    ]
+  },
+  "Fire 3*": {
+    "subset": "training",
+    "duration": 6.0836,
+    "actions": [
+      [
+        1,
+        0,
+        6.0836
+      ]
+    ]
+  },
+  "Fire 2*": {
+    "subset": "training",
+    "duration": 6.0836,
+    "actions": [
+      [
+        1,
+        0,
+        6.0836
+      ]
+    ]
+  },
+  "Fire 5*": {
+    "subset": "training",
+    "duration": 6.0604,
+    "actions": [
+      [
+        1,
+        0,
+        6.0604
+      ]
+    ]
+  },
+  "Arson3": {
+    "subset": "training",
+    "duration": 35.946646,
+    "actions": [
+      [
+        1,
+        0,
+        35.946646
+      ]
+    ]
+  },
+  "Arson4": {
+    "subset": "training",
+    "duration": 35.946646,
+    "actions": [
+      [
+        1,
+        0,
+        35.946646
+      ]
+    ]
+  },
+  "Arson": {
+    "subset": "training",
+    "duration": 25.066646,
+    "actions": [
+      [
+        1,
+        0,
+        25.066646
+      ]
+    ]
+  },
+  "Arson6": {
+    "subset": "testing",
+    "duration": 35.946646,
+    "actions": [
+      [
+        1,
+        0,
+        35.946646
+      ]
+    ]
+  },
+  "Arson18": {
+    "subset": "training",
+    "duration": 31.189313,
+    "actions": [
+      [
+        1,
+        0,
+        31.189313
+      ]
+    ]
+  },
+  "Arson20": {
+    "subset": "training",
+    "duration": 31.189313,
+    "actions": [
+      [
+        1,
+        0,
+        31.189313
+      ]
+    ]
+  },
+  "Arson19": {
+    "subset": "training",
+    "duration": 31.189313,
+    "actions": [
+      [
+        1,
+        0,
+        31.189313
+      ]
+    ]
+  },
+  "Arson21": {
+    "subset": "testing",
+    "duration": 31.189313,
+    "actions": [
+      [
+        1,
+        0,
+        31.189313
+      ]
+    ]
+  },
+  "Arson 24": {
+    "subset": "training",
+    "duration": 17.493313,
+    "actions": [
+      [
+        1,
+        0,
+        17.493313
+      ]
+    ]
+  },
+  "Arson 23": {
+    "subset": "training",
+    "duration": 17.493313,
+    "actions": [
+      [
+        1,
+        0,
+        17.493313
+      ]
+    ]
+  },
+  "Arson 21": {
+    "subset": "testing",
+    "duration": 17.493313,
+    "actions": [
+      [
+        1,
+        0,
+        17.493313
+      ]
+    ]
+  },
+  "Arson 25": {
+    "subset": "training",
+    "duration": 17.493313,
+    "actions": [
+      [
+        1,
+        0,
+        17.493313
+      ]
+    ]
+  },
+  "Arson 22": {
+    "subset": "training",
+    "duration": 17.493313,
+    "actions": [
+      [
+        1,
+        0,
+        17.493313
+      ]
+    ]
+  },
+  "Arson 20": {
+    "subset": "training",
+    "duration": 12.287979,
+    "actions": [
+      [
+        1,
+        0,
+        12.287979
+      ]
+    ]
+  },
+  "Arson 18": {
+    "subset": "training",
+    "duration": 12.757313,
+    "actions": [
+      [
+        1,
+        0,
+        12.757313
+      ]
+    ]
+  },
+  "Arson 17": {
+    "subset": "training",
+    "duration": 22.634646,
+    "actions": [
+      [
+        1,
+        0,
+        22.634646
+      ]
+    ]
+  },
+  "Arson 16": {
+    "subset": "training",
+    "duration": 22.634646,
+    "actions": [
+      [
+        1,
+        0,
+        22.634646
+      ]
+    ]
+  },
+  "Arson 19": {
+    "subset": "testing",
+    "duration": 14.741313,
+    "actions": [
+      [
+        1,
+        0,
+        14.741313
+      ]
+    ]
+  },
+  "Arson 5": {
+    "subset": "training",
+    "duration": 13.994646,
+    "actions": [
+      [
+        1,
+        0,
+        13.994646
+      ]
+    ]
+  },
+  "Arson 2": {
+    "subset": "testing",
+    "duration": 14.890646,
+    "actions": [
+      [
+        1,
+        0,
+        14.890646
+      ]
+    ]
+  },
+  "Arson 4": {
+    "subset": "training",
+    "duration": 14.655979,
+    "actions": [
+      [
+        1,
+        0,
+        14.655979
+      ]
+    ]
+  },
+  "Arson 1": {
+    "subset": "training",
+    "duration": 9.791979,
+    "actions": [
+      [
+        1,
+        0,
+        9.791979
+      ]
+    ]
+  },
+  "Arson 3": {
+    "subset": "testing",
+    "duration": 20.778646,
+    "actions": [
+      [
+        1,
+        0,
+        20.778646
+      ]
+    ]
+  },
+  "Car 3*": {
+    "subset": "training",
+    "duration": 8.893233,
+    "actions": [
+      [
+        1,
+        0,
+        8.893233
+      ]
+    ]
+  },
+  "Car 5*": {
+    "subset": "training",
+    "duration": 8.893233,
+    "actions": [
+      [
+        1,
+        0,
+        8.893233
+      ]
+    ]
+  },
+  "Car 6*": {
+    "subset": "training",
+    "duration": 8.893233,
+    "actions": [
+      [
+        1,
+        0,
+        8.893233
+      ]
+    ]
+  },
+  "Car 1*": {
+    "subset": "training",
+    "duration": 8.893233,
+    "actions": [
+      [
+        1,
+        0,
+        8.893233
+      ]
+    ]
+  },
+  "Car 2*": {
+    "subset": "training",
+    "duration": 8.893233,
+    "actions": [
+      [
+        1,
+        0,
+        8.893233
+      ]
+    ]
+  },
+  "Woman 7*": {
+    "subset": "training",
+    "duration": 6.617667,
+    "actions": [
+      [
+        1,
+        0,
+        6.617667
+      ]
+    ]
+  },
+  "Woman 1*": {
+    "subset": "training",
+    "duration": 6.687333,
+    "actions": [
+      [
+        1,
+        0,
+        6.687333
+      ]
+    ]
+  },
+  "Woman 5*": {
+    "subset": "training",
+    "duration": 6.617667,
+    "actions": [
+      [
+        1,
+        0,
+        6.617667
+      ]
+    ]
+  },
+  "Woman 2*": {
+    "subset": "training",
+    "duration": 6.6409,
+    "actions": [
+      [
+        1,
+        0,
+        6.6409
+      ]
+    ]
+  },
+  "Woman 6*": {
+    "subset": "testing",
+    "duration": 6.617667,
+    "actions": [
+      [
+        1,
+        0,
+        6.617667
+      ]
+    ]
+  },
+  "Woman 3*": {
+    "subset": "training",
+    "duration": 6.617667,
+    "actions": [
+      [
+        1,
+        0,
+        6.617667
+      ]
+    ]
+  },
+  "Arson 14": {
+    "subset": "testing",
+    "duration": 15.722646,
+    "actions": [
+      [
+        1,
+        0,
+        15.722646
+      ]
+    ]
+  },
+  "Arson 13": {
+    "subset": "training",
+    "duration": 17.599979,
+    "actions": [
+      [
+        1,
+        0,
+        17.599979
+      ]
+    ]
+  },
+  "Arson 11": {
+    "subset": "testing",
+    "duration": 14.229313,
+    "actions": [
+      [
+        1,
+        0,
+        14.229313
+      ]
+    ]
+  },
+  "Arson 12": {
+    "subset": "training",
+    "duration": 14.655979,
+    "actions": [
+      [
+        1,
+        0,
+        14.655979
+      ]
+    ]
+  },
+  "Arson 15": {
+    "subset": "training",
+    "duration": 16.725313,
+    "actions": [
+      [
+        1,
+        0,
+        16.725313
+      ]
+    ]
+  },
+  "Arson 37": {
+    "subset": "training",
+    "duration": 44.629313,
+    "actions": [
+      [
+        1,
+        0,
+        44.629313
+      ]
+    ]
+  },
+  "Arson 38": {
+    "subset": "training",
+    "duration": 44.629313,
+    "actions": [
+      [
+        1,
+        0,
+        44.629313
+      ]
+    ]
+  },
+  "Arson 40": {
+    "subset": "training",
+    "duration": 44.629313,
+    "actions": [
+      [
+        1,
+        0,
+        44.629313
+      ]
+    ]
+  },
+  "Arson 36": {
+    "subset": "training",
+    "duration": 44.629313,
+    "actions": [
+      [
+        1,
+        0,
+        44.629313
+      ]
+    ]
+  },
+  "Arson 39": {
+    "subset": "training",
+    "duration": 40.021313,
+    "actions": [
+      [
+        1,
+        0,
+        40.021313
+      ]
+    ]
+  },
+  "Arson 32": {
+    "subset": "training",
+    "duration": 53.973313,
+    "actions": [
+      [
+        1,
+        0,
+        53.973313
+      ]
+    ]
+  },
+  "Arson 34": {
+    "subset": "training",
+    "duration": 53.973313,
+    "actions": [
+      [
+        1,
+        0,
+        53.973313
+      ]
+    ]
+  },
+  "Arson 31": {
+    "subset": "testing",
+    "duration": 53.973313,
+    "actions": [
+      [
+        1,
+        0,
+        53.973313
+      ]
+    ]
+  },
+  "Arson 33": {
+    "subset": "training",
+    "duration": 53.973313,
+    "actions": [
+      [
+        1,
+        0,
+        53.973313
+      ]
+    ]
+  },
+  "Arson 35": {
+    "subset": "training",
+    "duration": 53.973313,
+    "actions": [
+      [
+        1,
+        0,
+        53.973313
+      ]
+    ]
+  },
+  "Arson16": {
+    "subset": "training",
+    "duration": 14.271979,
+    "actions": [
+      [
+        1,
+        0,
+        14.271979
+      ]
+    ]
+  },
+  "Arson17": {
+    "subset": "training",
+    "duration": 14.271979,
+    "actions": [
+      [
+        1,
+        0,
+        14.271979
+      ]
+    ]
+  },
+  "Arson15": {
+    "subset": "training",
+    "duration": 14.271979,
+    "actions": [
+      [
+        1,
+        0,
+        14.271979
+      ]
+    ]
+  },
+  "Arson14": {
+    "subset": "testing",
+    "duration": 14.271979,
+    "actions": [
+      [
+        1,
+        0,
+        14.271979
+      ]
+    ]
+  },
+  "Arson9": {
+    "subset": "training",
+    "duration": 20.415979,
+    "actions": [
+      [
+        1,
+        0,
+        20.415979
+      ]
+    ]
+  },
+  "Arson10": {
+    "subset": "training",
+    "duration": 20.415979,
+    "actions": [
+      [
+        1,
+        0,
+        20.415979
+      ]
+    ]
+  },
+  "Arson7": {
+    "subset": "testing",
+    "duration": 12.607979,
+    "actions": [
+      [
+        1,
+        0,
+        12.607979
+      ]
+    ]
+  },
+  "Arson2": {
+    "subset": "training",
+    "duration": 19.839979,
+    "actions": [
+      [
+        1,
+        0,
+        19.839979
+      ]
+    ]
+  },
+  "Arson8": {
+    "subset": "testing",
+    "duration": 17.258646,
+    "actions": [
+      [
+        1,
+        0,
+        17.258646
+      ]
+    ]
+  },
+  "Arsonn 4*": {
+    "subset": "training",
+    "duration": 18.901033,
+    "actions": [
+      [
+        1,
+        0,
+        18.901033
+      ]
+    ]
+  },
+  "Arsonn 6*": {
+    "subset": "training",
+    "duration": 18.924233,
+    "actions": [
+      [
+        1,
+        0,
+        18.924233
+      ]
+    ]
+  },
+  "Arsonn 5*": {
+    "subset": "training",
+    "duration": 18.924233,
+    "actions": [
+      [
+        1,
+        0,
+        18.924233
+      ]
+    ]
+  },
+  "Arsonn 2*": {
+    "subset": "training",
+    "duration": 18.901033,
+    "actions": [
+      [
+        1,
+        0,
+        18.901033
+      ]
+    ]
+  },
+  "Arsonn 3*": {
+    "subset": "training",
+    "duration": 18.901033,
+    "actions": [
+      [
+        1,
+        0,
+        18.901033
+      ]
+    ]
+  },
+  "Fire shop 1*": {
+    "subset": "testing",
+    "duration": 9.845233,
+    "actions": [
+      [
+        1,
+        0,
+        9.845233
+      ]
+    ]
+  },
+  "Fire shop 2*": {
+    "subset": "training",
+    "duration": 9.845233,
+    "actions": [
+      [
+        1,
+        0,
+        9.845233
+      ]
+    ]
+  },
+  "People_203_2A": {
+    "subset": "training",
+    "duration": 3.3901,
+    "actions": [
+      [
+        2,
+        0,
+        3.3901
+      ]
+    ]
+  },
+  "People_205_2A": {
+    "subset": "training",
+    "duration": 3.343667,
+    "actions": [
+      [
+        2,
+        0,
+        3.343667
+      ]
+    ]
+  },
+  "People_202_2A": {
+    "subset": "training",
+    "duration": 3.3901,
+    "actions": [
+      [
+        2,
+        0,
+        3.3901
+      ]
+    ]
+  },
+  "People_204_2A": {
+    "subset": "training",
+    "duration": 3.3901,
+    "actions": [
+      [
+        2,
+        0,
+        3.3901
+      ]
+    ]
+  },
+  "People_206_2A": {
+    "subset": "training",
+    "duration": 3.3901,
+    "actions": [
+      [
+        2,
+        0,
+        3.3901
+      ]
+    ]
+  },
+  "People_201_2A": {
+    "subset": "testing",
+    "duration": 3.343667,
+    "actions": [
+      [
+        2,
+        0,
+        3.343667
+      ]
+    ]
+  },
+  "Explosion 22": {
+    "subset": "testing",
+    "duration": 14.463979,
+    "actions": [
+      [
+        2,
+        0,
+        14.463979
+      ]
+    ]
+  },
+  "Explosion 25": {
+    "subset": "training",
+    "duration": 14.463979,
+    "actions": [
+      [
+        2,
+        0,
+        14.463979
+      ]
+    ]
+  },
+  "Explosion 24": {
+    "subset": "training",
+    "duration": 14.463979,
+    "actions": [
+      [
+        2,
+        0,
+        14.463979
+      ]
+    ]
+  },
+  "Explosion 21": {
+    "subset": "training",
+    "duration": 14.463979,
+    "actions": [
+      [
+        2,
+        0,
+        14.463979
+      ]
+    ]
+  },
+  "Explosion 23": {
+    "subset": "training",
+    "duration": 14.463979,
+    "actions": [
+      [
+        2,
+        0,
+        14.463979
+      ]
+    ]
+  },
+  "Explosion 36": {
+    "subset": "testing",
+    "duration": 17.237313,
+    "actions": [
+      [
+        2,
+        0,
+        17.237313
+      ]
+    ]
+  },
+  "Explosion 37": {
+    "subset": "training",
+    "duration": 17.237313,
+    "actions": [
+      [
+        2,
+        0,
+        17.237313
+      ]
+    ]
+  },
+  "Explosion 40": {
+    "subset": "training",
+    "duration": 17.237313,
+    "actions": [
+      [
+        2,
+        0,
+        17.237313
+      ]
+    ]
+  },
+  "Explosion 38": {
+    "subset": "testing",
+    "duration": 17.237313,
+    "actions": [
+      [
+        2,
+        0,
+        17.237313
+      ]
+    ]
+  },
+  "Explosion 39": {
+    "subset": "training",
+    "duration": 17.237313,
+    "actions": [
+      [
+        2,
+        0,
+        17.237313
+      ]
+    ]
+  },
+  "Explosion 3": {
+    "subset": "training",
+    "duration": 30.378646,
+    "actions": [
+      [
+        2,
+        0,
+        30.378646
+      ]
+    ]
+  },
+  "Explosion 2": {
+    "subset": "training",
+    "duration": 30.421313,
+    "actions": [
+      [
+        2,
+        0,
+        30.421313
+      ]
+    ]
+  },
+  "Explosion 1": {
+    "subset": "training",
+    "duration": 30.399979,
+    "actions": [
+      [
+        2,
+        0,
+        30.399979
+      ]
+    ]
+  },
+  "Explosion 5": {
+    "subset": "training",
+    "duration": 30.421313,
+    "actions": [
+      [
+        2,
+        0,
+        30.421313
+      ]
+    ]
+  },
+  "Explosion 4": {
+    "subset": "training",
+    "duration": 30.421313,
+    "actions": [
+      [
+        2,
+        0,
+        30.421313
+      ]
+    ]
+  },
+  "Bomb1_201_2A": {
+    "subset": "training",
+    "duration": 2.5774,
+    "actions": [
+      [
+        2,
+        0,
+        2.5774
+      ]
+    ]
+  },
+  "Bomb1_203_2A": {
+    "subset": "training",
+    "duration": 2.5774,
+    "actions": [
+      [
+        2,
+        0,
+        2.5774
+      ]
+    ]
+  },
+  "Bomb1_206_2A": {
+    "subset": "training",
+    "duration": 2.623833,
+    "actions": [
+      [
+        2,
+        0,
+        2.623833
+      ]
+    ]
+  },
+  "Bomb1_205_2A": {
+    "subset": "training",
+    "duration": 2.623833,
+    "actions": [
+      [
+        2,
+        0,
+        2.623833
+      ]
+    ]
+  },
+  "Bomb1_202_2A": {
+    "subset": "training",
+    "duration": 2.5774,
+    "actions": [
+      [
+        2,
+        0,
+        2.5774
+      ]
+    ]
+  },
+  "Bomb1_204_2A": {
+    "subset": "training",
+    "duration": 2.5774,
+    "actions": [
+      [
+        2,
+        0,
+        2.5774
+      ]
+    ]
+  },
+  "Exp_203_2A": {
+    "subset": "training",
+    "duration": 3.204333,
+    "actions": [
+      [
+        2,
+        0,
+        3.204333
+      ]
+    ]
+  },
+  "Exp_202_2A": {
+    "subset": "testing",
+    "duration": 3.204333,
+    "actions": [
+      [
+        2,
+        0,
+        3.204333
+      ]
+    ]
+  },
+  "Exp_204_2A": {
+    "subset": "training",
+    "duration": 3.204333,
+    "actions": [
+      [
+        2,
+        0,
+        3.204333
+      ]
+    ]
+  },
+  "Exp_201_2A": {
+    "subset": "training",
+    "duration": 3.204333,
+    "actions": [
+      [
+        2,
+        0,
+        3.204333
+      ]
+    ]
+  },
+  "Arson1": {
+    "subset": "training",
+    "duration": 13.461313,
+    "actions": [
+      [
+        2,
+        0,
+        13.461313
+      ]
+    ]
+  },
+  "Building_202_2A": {
+    "subset": "testing",
+    "duration": 4.179567,
+    "actions": [
+      [
+        2,
+        0,
+        4.179567
+      ]
+    ]
+  },
+  "Building_207_2A": {
+    "subset": "testing",
+    "duration": 4.179567,
+    "actions": [
+      [
+        2,
+        0,
+        4.179567
+      ]
+    ]
+  },
+  "Building_204_2A": {
+    "subset": "training",
+    "duration": 4.179567,
+    "actions": [
+      [
+        2,
+        0,
+        4.179567
+      ]
+    ]
+  },
+  "Building_201_2A": {
+    "subset": "training",
+    "duration": 5.7121,
+    "actions": [
+      [
+        2,
+        0,
+        5.7121
+      ]
+    ]
+  },
+  "Building_205_2A": {
+    "subset": "testing",
+    "duration": 4.179567,
+    "actions": [
+      [
+        2,
+        0,
+        4.179567
+      ]
+    ]
+  },
+  "Building_206_2A": {
+    "subset": "testing",
+    "duration": 4.179567,
+    "actions": [
+      [
+        2,
+        0,
+        4.179567
+      ]
+    ]
+  },
+  "Explosion 18": {
+    "subset": "training",
+    "duration": 17.471979,
+    "actions": [
+      [
+        2,
+        0,
+        17.471979
+      ]
+    ]
+  },
+  "Explosion 17": {
+    "subset": "training",
+    "duration": 16.575979,
+    "actions": [
+      [
+        2,
+        0,
+        16.575979
+      ]
+    ]
+  },
+  "Explosion 20": {
+    "subset": "training",
+    "duration": 16.426646,
+    "actions": [
+      [
+        2,
+        0,
+        16.426646
+      ]
+    ]
+  },
+  "Explosion 16": {
+    "subset": "training",
+    "duration": 17.151979,
+    "actions": [
+      [
+        2,
+        0,
+        17.151979
+      ]
+    ]
+  },
+  "Explosion 19": {
+    "subset": "training",
+    "duration": 17.471979,
+    "actions": [
+      [
+        2,
+        0,
+        17.471979
+      ]
+    ]
+  },
+  "Explosion 12": {
+    "subset": "training",
+    "duration": 32.277313,
+    "actions": [
+      [
+        2,
+        0,
+        32.277313
+      ]
+    ]
+  },
+  "Explosion 11": {
+    "subset": "training",
+    "duration": 32.213313,
+    "actions": [
+      [
+        2,
+        0,
+        32.213313
+      ]
+    ]
+  },
+  "Explosion 14": {
+    "subset": "training",
+    "duration": 32.277313,
+    "actions": [
+      [
+        2,
+        0,
+        32.277313
+      ]
+    ]
+  },
+  "Explosion 13": {
+    "subset": "training",
+    "duration": 32.277313,
+    "actions": [
+      [
+        2,
+        0,
+        32.277313
+      ]
+    ]
+  },
+  "Explosion 15": {
+    "subset": "training",
+    "duration": 32.277313,
+    "actions": [
+      [
+        2,
+        0,
+        32.277313
+      ]
+    ]
+  },
+  "Explosion4": {
+    "subset": "training",
+    "duration": 16.789313,
+    "actions": [
+      [
+        2,
+        0,
+        16.789313
+      ]
+    ]
+  },
+  "Explosion1": {
+    "subset": "training",
+    "duration": 16.789313,
+    "actions": [
+      [
+        2,
+        0,
+        16.789313
+      ]
+    ]
+  },
+  "Explosion2": {
+    "subset": "training",
+    "duration": 16.789313,
+    "actions": [
+      [
+        2,
+        0,
+        16.789313
+      ]
+    ]
+  },
+  "Explosion5": {
+    "subset": "testing",
+    "duration": 16.789313,
+    "actions": [
+      [
+        2,
+        0,
+        16.789313
+      ]
+    ]
+  },
+  "Explosion3": {
+    "subset": "training",
+    "duration": 16.789313,
+    "actions": [
+      [
+        2,
+        0,
+        16.789313
+      ]
+    ]
+  },
+  "Shop_204_2A": {
+    "subset": "training",
+    "duration": 4.481433,
+    "actions": [
+      [
+        2,
+        0,
+        4.481433
+      ]
+    ]
+  },
+  "Shop_203_2A": {
+    "subset": "testing",
+    "duration": 4.481433,
+    "actions": [
+      [
+        2,
+        0,
+        4.481433
+      ]
+    ]
+  },
+  "Shop_205_2A": {
+    "subset": "training",
+    "duration": 4.4582,
+    "actions": [
+      [
+        2,
+        0,
+        4.4582
+      ]
+    ]
+  },
+  "Shop_201_2A": {
+    "subset": "training",
+    "duration": 4.481433,
+    "actions": [
+      [
+        2,
+        0,
+        4.481433
+      ]
+    ]
+  },
+  "Shop_206_2A": {
+    "subset": "training",
+    "duration": 4.481433,
+    "actions": [
+      [
+        2,
+        0,
+        4.481433
+      ]
+    ]
+  },
+  "Shop_202_2A": {
+    "subset": "training",
+    "duration": 4.481433,
+    "actions": [
+      [
+        2,
+        0,
+        4.481433
+      ]
+    ]
+  },
+  "Explosion 8": {
+    "subset": "training",
+    "duration": 15.658646,
+    "actions": [
+      [
+        2,
+        0,
+        15.658646
+      ]
+    ]
+  },
+  "Explosion 7": {
+    "subset": "training",
+    "duration": 15.658646,
+    "actions": [
+      [
+        2,
+        0,
+        15.658646
+      ]
+    ]
+  },
+  "Explosion 6": {
+    "subset": "testing",
+    "duration": 15.658646,
+    "actions": [
+      [
+        2,
+        0,
+        15.658646
+      ]
+    ]
+  },
+  "Explosion 10": {
+    "subset": "training",
+    "duration": 15.658646,
+    "actions": [
+      [
+        2,
+        0,
+        15.658646
+      ]
+    ]
+  },
+  "Explosion 9": {
+    "subset": "testing",
+    "duration": 15.658646,
+    "actions": [
+      [
+        2,
+        0,
+        15.658646
+      ]
+    ]
+  },
+  "Explosion 31": {
+    "subset": "training",
+    "duration": 18.239979,
+    "actions": [
+      [
+        2,
+        0,
+        18.239979
+      ]
+    ]
+  },
+  "Explosion 32": {
+    "subset": "training",
+    "duration": 18.239979,
+    "actions": [
+      [
+        2,
+        0,
+        18.239979
+      ]
+    ]
+  },
+  "Explosion 34": {
+    "subset": "testing",
+    "duration": 18.239979,
+    "actions": [
+      [
+        2,
+        0,
+        18.239979
+      ]
+    ]
+  },
+  "Explosion 35": {
+    "subset": "training",
+    "duration": 18.239979,
+    "actions": [
+      [
+        2,
+        0,
+        18.239979
+      ]
+    ]
+  },
+  "Explosion 33": {
+    "subset": "testing",
+    "duration": 18.239979,
+    "actions": [
+      [
+        2,
+        0,
+        18.239979
+      ]
+    ]
+  },
+  "Explosion 28": {
+    "subset": "training",
+    "duration": 18.325313,
+    "actions": [
+      [
+        2,
+        0,
+        18.325313
+      ]
+    ]
+  },
+  "Explosion 29": {
+    "subset": "training",
+    "duration": 18.325313,
+    "actions": [
+      [
+        2,
+        0,
+        18.325313
+      ]
+    ]
+  },
+  "Explosion 26": {
+    "subset": "training",
+    "duration": 18.325313,
+    "actions": [
+      [
+        2,
+        0,
+        18.325313
+      ]
+    ]
+  },
+  "Explosion 30": {
+    "subset": "training",
+    "duration": 18.325313,
+    "actions": [
+      [
+        2,
+        0,
+        18.325313
+      ]
+    ]
+  },
+  "Explosion 27": {
+    "subset": "training",
+    "duration": 18.325313,
+    "actions": [
+      [
+        2,
+        0,
+        18.325313
+      ]
+    ]
+  },
+  "University_202_2A": {
+    "subset": "training",
+    "duration": 3.8777,
+    "actions": [
+      [
+        2,
+        0,
+        3.8777
+      ]
+    ]
+  },
+  "University_203_2A": {
+    "subset": "training",
+    "duration": 3.8777,
+    "actions": [
+      [
+        2,
+        0,
+        3.8777
+      ]
+    ]
+  },
+  "University_206_2A": {
+    "subset": "training",
+    "duration": 3.8777,
+    "actions": [
+      [
+        2,
+        0,
+        3.8777
+      ]
+    ]
+  },
+  "University_204_2A": {
+    "subset": "training",
+    "duration": 3.8777,
+    "actions": [
+      [
+        2,
+        0,
+        3.8777
+      ]
+    ]
+  },
+  "University_205_2A": {
+    "subset": "training",
+    "duration": 3.8777,
+    "actions": [
+      [
+        2,
+        0,
+        3.8777
+      ]
+    ]
+  },
+  "University_201_2A": {
+    "subset": "testing",
+    "duration": 3.8777,
+    "actions": [
+      [
+        2,
+        0,
+        3.8777
+      ]
+    ]
+  },
+  "Bomb_206_2A": {
+    "subset": "training",
+    "duration": 4.852967,
+    "actions": [
+      [
+        2,
+        0,
+        4.852967
+      ]
+    ]
+  },
+  "Bomb_204_2A": {
+    "subset": "testing",
+    "duration": 4.852967,
+    "actions": [
+      [
+        2,
+        0,
+        4.852967
+      ]
+    ]
+  },
+  "Bomb_202_2A": {
+    "subset": "training",
+    "duration": 4.852967,
+    "actions": [
+      [
+        2,
+        0,
+        4.852967
+      ]
+    ]
+  },
+  "Bomb_203_2A": {
+    "subset": "testing",
+    "duration": 4.852967,
+    "actions": [
+      [
+        2,
+        0,
+        4.852967
+      ]
+    ]
+  },
+  "Bomb_201_2A": {
+    "subset": "training",
+    "duration": 4.8065,
+    "actions": [
+      [
+        2,
+        0,
+        4.8065
+      ]
+    ]
+  },
+  "Bomb_205_2A": {
+    "subset": "training",
+    "duration": 4.852967,
+    "actions": [
+      [
+        2,
+        0,
+        4.852967
+      ]
+    ]
+  },
+  "Business_203_2A": {
+    "subset": "training",
+    "duration": 5.1548,
+    "actions": [
+      [
+        2,
+        0,
+        5.1548
+      ]
+    ]
+  },
+  "Business_206_2A": {
+    "subset": "training",
+    "duration": 5.1548,
+    "actions": [
+      [
+        2,
+        0,
+        5.1548
+      ]
+    ]
+  },
+  "Business_204_2A": {
+    "subset": "training",
+    "duration": 5.1548,
+    "actions": [
+      [
+        2,
+        0,
+        5.1548
+      ]
+    ]
+  },
+  "Business_202_2A": {
+    "subset": "testing",
+    "duration": 5.1548,
+    "actions": [
+      [
+        2,
+        0,
+        5.1548
+      ]
+    ]
+  },
+  "Business_201_2A": {
+    "subset": "training",
+    "duration": 5.1548,
+    "actions": [
+      [
+        2,
+        0,
+        5.1548
+      ]
+    ]
+  },
+  "Business_205_2A": {
+    "subset": "training",
+    "duration": 5.1548,
+    "actions": [
+      [
+        2,
+        0,
+        5.1548
+      ]
+    ]
+  },
+  "Explosion15": {
+    "subset": "training",
+    "duration": 7.295979,
+    "actions": [
+      [
+        2,
+        0,
+        7.295979
+      ]
+    ]
+  },
+  "Explosion11": {
+    "subset": "training",
+    "duration": 7.295979,
+    "actions": [
+      [
+        2,
+        0,
+        7.295979
+      ]
+    ]
+  },
+  "Explosion14": {
+    "subset": "training",
+    "duration": 7.295979,
+    "actions": [
+      [
+        2,
+        0,
+        7.295979
+      ]
+    ]
+  },
+  "Explosion12": {
+    "subset": "testing",
+    "duration": 7.295979,
+    "actions": [
+      [
+        2,
+        0,
+        7.295979
+      ]
+    ]
+  },
+  "Explosion13": {
+    "subset": "training",
+    "duration": 7.295979,
+    "actions": [
+      [
+        2,
+        0,
+        7.295979
+      ]
+    ]
+  },
+  "Fighting_205_2A": {
+    "subset": "training",
+    "duration": 14.257033,
+    "actions": [
+      [
+        3,
+        0,
+        14.257033
+      ]
+    ]
+  },
+  "Fighting_202_2A": {
+    "subset": "training",
+    "duration": 14.257033,
+    "actions": [
+      [
+        3,
+        0,
+        14.257033
+      ]
+    ]
+  },
+  "Fighting_203_2A": {
+    "subset": "training",
+    "duration": 14.257033,
+    "actions": [
+      [
+        3,
+        0,
+        14.257033
+      ]
+    ]
+  },
+  "Fighting1_2A": {
+    "subset": "training",
+    "duration": 14.257033,
+    "actions": [
+      [
+        3,
+        0,
+        14.257033
+      ]
+    ]
+  },
+  "Fighting_206_2A": {
+    "subset": "training",
+    "duration": 14.187367,
+    "actions": [
+      [
+        3,
+        0,
+        14.187367
+      ]
+    ]
+  },
+  "Fighting_204_2A": {
+    "subset": "training",
+    "duration": 14.257033,
+    "actions": [
+      [
+        3,
+        0,
+        14.257033
+      ]
+    ]
+  },
+  "Fighting 40": {
+    "subset": "testing",
+    "duration": 16.362646,
+    "actions": [
+      [
+        3,
+        0,
+        16.362646
+      ]
+    ]
+  },
+  "Fighting 38": {
+    "subset": "training",
+    "duration": 16.362646,
+    "actions": [
+      [
+        3,
+        0,
+        16.362646
+      ]
+    ]
+  },
+  "Fighting 39": {
+    "subset": "training",
+    "duration": 16.362646,
+    "actions": [
+      [
+        3,
+        0,
+        16.362646
+      ]
+    ]
+  },
+  "Fighting 19": {
+    "subset": "training",
+    "duration": 23.978646,
+    "actions": [
+      [
+        3,
+        0,
+        23.978646
+      ]
+    ]
+  },
+  "Fighting 18": {
+    "subset": "training",
+    "duration": 10.517313,
+    "actions": [
+      [
+        3,
+        0,
+        10.517313
+      ]
+    ]
+  },
+  "Fighting 20": {
+    "subset": "testing",
+    "duration": 23.935979,
+    "actions": [
+      [
+        3,
+        0,
+        23.935979
+      ]
+    ]
+  },
+  "Fighting 31": {
+    "subset": "training",
+    "duration": 23.295979,
+    "actions": [
+      [
+        3,
+        0,
+        23.295979
+      ]
+    ]
+  },
+  "Fighting 34": {
+    "subset": "training",
+    "duration": 21.674646,
+    "actions": [
+      [
+        3,
+        0,
+        21.674646
+      ]
+    ]
+  },
+  "Fighting 35": {
+    "subset": "training",
+    "duration": 21.674646,
+    "actions": [
+      [
+        3,
+        0,
+        21.674646
+      ]
+    ]
+  },
+  "Fighting 32": {
+    "subset": "training",
+    "duration": 23.295979,
+    "actions": [
+      [
+        3,
+        0,
+        23.295979
+      ]
+    ]
+  },
+  "Fighting 33": {
+    "subset": "training",
+    "duration": 23.295979,
+    "actions": [
+      [
+        3,
+        0,
+        23.295979
+      ]
+    ]
+  },
+  "Fighting 7": {
+    "subset": "training",
+    "duration": 17.258646,
+    "actions": [
+      [
+        3,
+        0,
+        17.258646
+      ]
+    ]
+  },
+  "Fighting 8": {
+    "subset": "training",
+    "duration": 16.874646,
+    "actions": [
+      [
+        3,
+        0,
+        16.874646
+      ]
+    ]
+  },
+  "Fighting 9": {
+    "subset": "training",
+    "duration": 18.858646,
+    "actions": [
+      [
+        3,
+        0,
+        18.858646
+      ]
+    ]
+  },
+  "Fight1_2A": {
+    "subset": "testing",
+    "duration": 12.399433,
+    "actions": [
+      [
+        3,
+        0,
+        12.399433
+      ]
+    ]
+  },
+  "Fight5_2A": {
+    "subset": "training",
+    "duration": 12.422667,
+    "actions": [
+      [
+        3,
+        0,
+        12.422667
+      ]
+    ]
+  },
+  "Fight_204_2A": {
+    "subset": "training",
+    "duration": 12.399433,
+    "actions": [
+      [
+        3,
+        0,
+        12.399433
+      ]
+    ]
+  },
+  "Fight6_2A": {
+    "subset": "training",
+    "duration": 12.422667,
+    "actions": [
+      [
+        3,
+        0,
+        12.422667
+      ]
+    ]
+  },
+  "Fight3_2A": {
+    "subset": "testing",
+    "duration": 12.399433,
+    "actions": [
+      [
+        3,
+        0,
+        12.399433
+      ]
+    ]
+  },
+  "Fight2_2A": {
+    "subset": "training",
+    "duration": 12.399433,
+    "actions": [
+      [
+        3,
+        0,
+        12.399433
+      ]
+    ]
+  },
+  "Fighting10": {
+    "subset": "training",
+    "duration": 24.405313,
+    "actions": [
+      [
+        3,
+        0,
+        24.405313
+      ]
+    ]
+  },
+  "Fighting9": {
+    "subset": "training",
+    "duration": 24.405313,
+    "actions": [
+      [
+        3,
+        0,
+        24.405313
+      ]
+    ]
+  },
+  "Fighting7": {
+    "subset": "training",
+    "duration": 24.405313,
+    "actions": [
+      [
+        3,
+        0,
+        24.405313
+      ]
+    ]
+  },
+  "Fighting6": {
+    "subset": "testing",
+    "duration": 24.405313,
+    "actions": [
+      [
+        3,
+        0,
+        24.405313
+      ]
+    ]
+  },
+  "Fighting8": {
+    "subset": "training",
+    "duration": 24.405313,
+    "actions": [
+      [
+        3,
+        0,
+        24.405313
+      ]
+    ]
+  },
+  "Fight2": {
+    "subset": "training",
+    "duration": 19.071979,
+    "actions": [
+      [
+        3,
+        0,
+        19.071979
+      ]
+    ]
+  },
+  "Fight4": {
+    "subset": "training",
+    "duration": 19.071979,
+    "actions": [
+      [
+        3,
+        0,
+        19.071979
+      ]
+    ]
+  },
+  "Fight1": {
+    "subset": "training",
+    "duration": 19.050646,
+    "actions": [
+      [
+        3,
+        0,
+        19.050646
+      ]
+    ]
+  },
+  "Fight3": {
+    "subset": "training",
+    "duration": 19.071979,
+    "actions": [
+      [
+        3,
+        0,
+        19.071979
+      ]
+    ]
+  },
+  "Shop_20fight_204_2A": {
+    "subset": "training",
+    "duration": 21.455233,
+    "actions": [
+      [
+        3,
+        0,
+        21.455233
+      ]
+    ]
+  },
+  "Shop_20fight_201_2A": {
+    "subset": "training",
+    "duration": 21.501667,
+    "actions": [
+      [
+        3,
+        0,
+        21.501667
+      ]
+    ]
+  },
+  "Shop_20fight_205_2A": {
+    "subset": "training",
+    "duration": 21.455233,
+    "actions": [
+      [
+        3,
+        0,
+        21.455233
+      ]
+    ]
+  },
+  "Shop_20fight_206_2A": {
+    "subset": "training",
+    "duration": 21.455233,
+    "actions": [
+      [
+        3,
+        0,
+        21.455233
+      ]
+    ]
+  },
+  "Shop_20fight_202_2A": {
+    "subset": "training",
+    "duration": 21.455233,
+    "actions": [
+      [
+        3,
+        0,
+        21.455233
+      ]
+    ]
+  },
+  "Shop_20fight_203_2A": {
+    "subset": "training",
+    "duration": 21.455233,
+    "actions": [
+      [
+        3,
+        0,
+        21.455233
+      ]
+    ]
+  },
+  "Fighting 16": {
+    "subset": "training",
+    "duration": 14.122646,
+    "actions": [
+      [
+        3,
+        0,
+        14.122646
+      ]
+    ]
+  },
+  "Fighting 17": {
+    "subset": "training",
+    "duration": 20.437313,
+    "actions": [
+      [
+        3,
+        0,
+        20.437313
+      ]
+    ]
+  },
+  "Fighting 15": {
+    "subset": "testing",
+    "duration": 29.439979,
+    "actions": [
+      [
+        3,
+        0,
+        29.439979
+      ]
+    ]
+  },
+  "Fighting 13": {
+    "subset": "training",
+    "duration": 29.439979,
+    "actions": [
+      [
+        3,
+        0,
+        29.439979
+      ]
+    ]
+  },
+  "Fighting 14": {
+    "subset": "training",
+    "duration": 19.797313,
+    "actions": [
+      [
+        3,
+        0,
+        19.797313
+      ]
+    ]
+  },
+  "Fighting 6": {
+    "subset": "training",
+    "duration": 19.434646,
+    "actions": [
+      [
+        3,
+        0,
+        19.434646
+      ]
+    ]
+  },
+  "Fighting 4": {
+    "subset": "testing",
+    "duration": 18.325313,
+    "actions": [
+      [
+        3,
+        0,
+        18.325313
+      ]
+    ]
+  },
+  "Fighting 3": {
+    "subset": "training",
+    "duration": 18.687979,
+    "actions": [
+      [
+        3,
+        0,
+        18.687979
+      ]
+    ]
+  },
+  "Fighting 5": {
+    "subset": "testing",
+    "duration": 25.407979,
+    "actions": [
+      [
+        3,
+        0,
+        25.407979
+      ]
+    ]
+  },
+  "Fighting16": {
+    "subset": "training",
+    "duration": 24.575979,
+    "actions": [
+      [
+        3,
+        0,
+        24.575979
+      ]
+    ]
+  },
+  "Fighting19": {
+    "subset": "training",
+    "duration": 24.575979,
+    "actions": [
+      [
+        3,
+        0,
+        24.575979
+      ]
+    ]
+  },
+  "Fighting18": {
+    "subset": "training",
+    "duration": 24.575979,
+    "actions": [
+      [
+        3,
+        0,
+        24.575979
+      ]
+    ]
+  },
+  "Fighting20": {
+    "subset": "training",
+    "duration": 24.575979,
+    "actions": [
+      [
+        3,
+        0,
+        24.575979
+      ]
+    ]
+  },
+  "Fighting17": {
+    "subset": "training",
+    "duration": 24.575979,
+    "actions": [
+      [
+        3,
+        0,
+        24.575979
+      ]
+    ]
+  },
+  "Fight 2*": {
+    "subset": "training",
+    "duration": 5.758533,
+    "actions": [
+      [
+        3,
+        0,
+        5.758533
+      ]
+    ]
+  },
+  "Fight 5*": {
+    "subset": "training",
+    "duration": 5.758533,
+    "actions": [
+      [
+        3,
+        0,
+        5.758533
+      ]
+    ]
+  },
+  "Fight 1*": {
+    "subset": "testing",
+    "duration": 5.7121,
+    "actions": [
+      [
+        3,
+        0,
+        5.7121
+      ]
+    ]
+  },
+  "Fight 3*": {
+    "subset": "training",
+    "duration": 5.758533,
+    "actions": [
+      [
+        3,
+        0,
+        5.758533
+      ]
+    ]
+  },
+  "Fight 6*": {
+    "subset": "testing",
+    "duration": 5.758533,
+    "actions": [
+      [
+        3,
+        0,
+        5.758533
+      ]
+    ]
+  },
+  "Fighting 11": {
+    "subset": "training",
+    "duration": 29.034646,
+    "actions": [
+      [
+        3,
+        0,
+        29.034646
+      ]
+    ]
+  },
+  "Fighting 10": {
+    "subset": "testing",
+    "duration": 14.037313,
+    "actions": [
+      [
+        3,
+        0,
+        14.037313
+      ]
+    ]
+  },
+  "Fighting 12": {
+    "subset": "testing",
+    "duration": 9.834646,
+    "actions": [
+      [
+        3,
+        0,
+        9.834646
+      ]
+    ]
+  },
+  "Fighting 36": {
+    "subset": "training",
+    "duration": 16.298646,
+    "actions": [
+      [
+        3,
+        0,
+        16.298646
+      ]
+    ]
+  },
+  "Fighting 37": {
+    "subset": "training",
+    "duration": 16.298646,
+    "actions": [
+      [
+        3,
+        0,
+        16.298646
+      ]
+    ]
+  },
+  "Fighting 29": {
+    "subset": "training",
+    "duration": 30.037313,
+    "actions": [
+      [
+        3,
+        0,
+        30.037313
+      ]
+    ]
+  },
+  "Fighting 30": {
+    "subset": "training",
+    "duration": 30.037313,
+    "actions": [
+      [
+        3,
+        0,
+        30.037313
+      ]
+    ]
+  },
+  "Fighting 28": {
+    "subset": "training",
+    "duration": 30.037313,
+    "actions": [
+      [
+        3,
+        0,
+        30.037313
+      ]
+    ]
+  },
+  "Fighting 27": {
+    "subset": "training",
+    "duration": 30.037313,
+    "actions": [
+      [
+        3,
+        0,
+        30.037313
+      ]
+    ]
+  },
+  "Fighting 26": {
+    "subset": "training",
+    "duration": 30.037313,
+    "actions": [
+      [
+        3,
+        0,
+        30.037313
+      ]
+    ]
+  },
+  "Fighting 22": {
+    "subset": "training",
+    "duration": 18.005313,
+    "actions": [
+      [
+        3,
+        0,
+        18.005313
+      ]
+    ]
+  },
+  "Fighting 24": {
+    "subset": "training",
+    "duration": 18.005313,
+    "actions": [
+      [
+        3,
+        0,
+        18.005313
+      ]
+    ]
+  },
+  "Fighting 25": {
+    "subset": "training",
+    "duration": 18.005313,
+    "actions": [
+      [
+        3,
+        0,
+        18.005313
+      ]
+    ]
+  },
+  "Fighting 23": {
+    "subset": "training",
+    "duration": 18.005313,
+    "actions": [
+      [
+        3,
+        0,
+        18.005313
+      ]
+    ]
+  },
+  "Fighting 21": {
+    "subset": "training",
+    "duration": 18.005313,
+    "actions": [
+      [
+        3,
+        0,
+        18.005313
+      ]
+    ]
+  },
+  "Cinema_20fight_206_2A": {
+    "subset": "training",
+    "duration": 9.357633,
+    "actions": [
+      [
+        3,
+        0,
+        9.357633
+      ]
+    ]
+  },
+  "Cinema_20fight_203_2A": {
+    "subset": "training",
+    "duration": 9.3112,
+    "actions": [
+      [
+        3,
+        0,
+        9.3112
+      ]
+    ]
+  },
+  "Cinema_20fight_204_2A": {
+    "subset": "training",
+    "duration": 9.357633,
+    "actions": [
+      [
+        3,
+        0,
+        9.357633
+      ]
+    ]
+  },
+  "Cinema_20fight_205_2A": {
+    "subset": "training",
+    "duration": 9.3112,
+    "actions": [
+      [
+        3,
+        0,
+        9.3112
+      ]
+    ]
+  },
+  "Cinema_20fight_202_2A": {
+    "subset": "training",
+    "duration": 9.357633,
+    "actions": [
+      [
+        3,
+        0,
+        9.357633
+      ]
+    ]
+  },
+  "Cinema_20fighting_201_2A": {
+    "subset": "training",
+    "duration": 9.357633,
+    "actions": [
+      [
+        3,
+        0,
+        9.357633
+      ]
+    ]
+  },
+  "Fighting14": {
+    "subset": "testing",
+    "duration": 22.805313,
+    "actions": [
+      [
+        3,
+        0,
+        22.805313
+      ]
+    ]
+  },
+  "Fighting15": {
+    "subset": "testing",
+    "duration": 22.805313,
+    "actions": [
+      [
+        3,
+        0,
+        22.805313
+      ]
+    ]
+  },
+  "Fighting11": {
+    "subset": "training",
+    "duration": 22.805313,
+    "actions": [
+      [
+        3,
+        0,
+        22.805313
+      ]
+    ]
+  },
+  "Fighting13": {
+    "subset": "training",
+    "duration": 22.805313,
+    "actions": [
+      [
+        3,
+        0,
+        22.805313
+      ]
+    ]
+  },
+  "Fighting12": {
+    "subset": "training",
+    "duration": 22.805313,
+    "actions": [
+      [
+        3,
+        0,
+        22.805313
+      ]
+    ]
+  },
+  "Fighting 1": {
+    "subset": "training",
+    "duration": 24.298646,
+    "actions": [
+      [
+        3,
+        0,
+        24.298646
+      ]
+    ]
+  },
+  "Fighting 2": {
+    "subset": "testing",
+    "duration": 24.298646,
+    "actions": [
+      [
+        3,
+        0,
+        24.298646
+      ]
+    ]
+  },
+  "Robbery19": {
+    "subset": "testing",
+    "duration": 32.639979,
+    "actions": [
+      [
+        4,
+        0,
+        32.639979
+      ]
+    ]
+  },
+  "Robbery21": {
+    "subset": "training",
+    "duration": 32.639979,
+    "actions": [
+      [
+        4,
+        0,
+        32.639979
+      ]
+    ]
+  },
+  "Robbery18": {
+    "subset": "testing",
+    "duration": 32.639979,
+    "actions": [
+      [
+        4,
+        0,
+        32.639979
+      ]
+    ]
+  },
+  "Robbery20": {
+    "subset": "training",
+    "duration": 32.639979,
+    "actions": [
+      [
+        4,
+        0,
+        32.639979
+      ]
+    ]
+  },
+  "Robbery11": {
+    "subset": "training",
+    "duration": 16.341313,
+    "actions": [
+      [
+        4,
+        0,
+        16.341313
+      ]
+    ]
+  },
+  "Robbery12": {
+    "subset": "training",
+    "duration": 16.341313,
+    "actions": [
+      [
+        4,
+        0,
+        16.341313
+      ]
+    ]
+  },
+  "Robbery10": {
+    "subset": "training",
+    "duration": 16.341313,
+    "actions": [
+      [
+        4,
+        0,
+        16.341313
+      ]
+    ]
+  },
+  "Robbery9": {
+    "subset": "training",
+    "duration": 16.341313,
+    "actions": [
+      [
+        4,
+        0,
+        16.341313
+      ]
+    ]
+  },
+  "Robbery2": {
+    "subset": "testing",
+    "duration": 35.818646,
+    "actions": [
+      [
+        4,
+        0,
+        35.818646
+      ]
+    ]
+  },
+  "Robbery3": {
+    "subset": "training",
+    "duration": 32.469313,
+    "actions": [
+      [
+        4,
+        0,
+        32.469313
+      ]
+    ]
+  },
+  "Robbery1": {
+    "subset": "training",
+    "duration": 34.175979,
+    "actions": [
+      [
+        4,
+        0,
+        34.175979
+      ]
+    ]
+  },
+  "Robbery4": {
+    "subset": "training",
+    "duration": 32.469313,
+    "actions": [
+      [
+        4,
+        0,
+        32.469313
+      ]
+    ]
+  },
+  "Robbery5": {
+    "subset": "testing",
+    "duration": 32.469313,
+    "actions": [
+      [
+        4,
+        0,
+        32.469313
+      ]
+    ]
+  },
+  "Girl_20stealing_204_2A": {
+    "subset": "training",
+    "duration": 9.357633,
+    "actions": [
+      [
+        4,
+        0,
+        9.357633
+      ]
+    ]
+  },
+  "Girl_20stealing_206_2A": {
+    "subset": "training",
+    "duration": 9.3112,
+    "actions": [
+      [
+        4,
+        0,
+        9.3112
+      ]
+    ]
+  },
+  "Girl_20stealing_205_2A": {
+    "subset": "training",
+    "duration": 9.3112,
+    "actions": [
+      [
+        4,
+        0,
+        9.3112
+      ]
+    ]
+  },
+  "Girl_20stealing_202_2A": {
+    "subset": "testing",
+    "duration": 9.357633,
+    "actions": [
+      [
+        4,
+        0,
+        9.357633
+      ]
+    ]
+  },
+  "Girl_20stealing_201_2A": {
+    "subset": "training",
+    "duration": 9.357633,
+    "actions": [
+      [
+        4,
+        0,
+        9.357633
+      ]
+    ]
+  },
+  "Girl_20stealing_203_2A": {
+    "subset": "testing",
+    "duration": 9.357633,
+    "actions": [
+      [
+        4,
+        0,
+        9.357633
+      ]
+    ]
+  },
+  "Robbery15": {
+    "subset": "training",
+    "duration": 33.578646,
+    "actions": [
+      [
+        4,
+        0,
+        33.578646
+      ]
+    ]
+  },
+  "Robbery16": {
+    "subset": "training",
+    "duration": 33.578646,
+    "actions": [
+      [
+        4,
+        0,
+        33.578646
+      ]
+    ]
+  },
+  "Robbery14": {
+    "subset": "training",
+    "duration": 33.578646,
+    "actions": [
+      [
+        4,
+        0,
+        33.578646
+      ]
+    ]
+  },
+  "Robbery13": {
+    "subset": "training",
+    "duration": 16.341313,
+    "actions": [
+      [
+        4,
+        0,
+        16.341313
+      ]
+    ]
+  },
+  "Money_201_2A": {
+    "subset": "testing",
+    "duration": 4.713633,
+    "actions": [
+      [
+        4,
+        0,
+        4.713633
+      ]
+    ]
+  },
+  "Money_202_2A": {
+    "subset": "testing",
+    "duration": 4.760067,
+    "actions": [
+      [
+        4,
+        0,
+        4.760067
+      ]
+    ]
+  },
+  "Money_205_2A": {
+    "subset": "training",
+    "duration": 4.713633,
+    "actions": [
+      [
+        4,
+        0,
+        4.713633
+      ]
+    ]
+  },
+  "Money_206_2A": {
+    "subset": "testing",
+    "duration": 4.760067,
+    "actions": [
+      [
+        4,
+        0,
+        4.760067
+      ]
+    ]
+  },
+  "Money_203_2A": {
+    "subset": "testing",
+    "duration": 4.760067,
+    "actions": [
+      [
+        4,
+        0,
+        4.760067
+      ]
+    ]
+  },
+  "Money_204_2A": {
+    "subset": "training",
+    "duration": 4.713633,
+    "actions": [
+      [
+        4,
+        0,
+        4.713633
+      ]
+    ]
+  },
+  "Robbery8": {
+    "subset": "training",
+    "duration": 35.818646,
+    "actions": [
+      [
+        4,
+        0,
+        35.818646
+      ]
+    ]
+  },
+  "Robbery6": {
+    "subset": "training",
+    "duration": 35.818646,
+    "actions": [
+      [
+        4,
+        0,
+        35.818646
+      ]
+    ]
+  },
+  "Robbery7": {
+    "subset": "training",
+    "duration": 35.818646,
+    "actions": [
+      [
+        4,
+        0,
+        35.818646
+      ]
+    ]
+  },
+  "Gun_205_2A": {
+    "subset": "testing",
+    "duration": 2.089767,
+    "actions": [
+      [
+        5,
+        0,
+        2.089767
+      ]
+    ]
+  },
+  "Gun_202_2A": {
+    "subset": "training",
+    "duration": 2.089767,
+    "actions": [
+      [
+        5,
+        0,
+        2.089767
+      ]
+    ]
+  },
+  "Gun_204_2A": {
+    "subset": "testing",
+    "duration": 2.089767,
+    "actions": [
+      [
+        5,
+        0,
+        2.089767
+      ]
+    ]
+  },
+  "Gun_203_2A": {
+    "subset": "training",
+    "duration": 2.089767,
+    "actions": [
+      [
+        5,
+        0,
+        2.089767
+      ]
+    ]
+  },
+  "Gun_201_2A": {
+    "subset": "training",
+    "duration": 2.089767,
+    "actions": [
+      [
+        5,
+        0,
+        2.089767
+      ]
+    ]
+  },
+  "Shooting 23": {
+    "subset": "training",
+    "duration": 14.933313,
+    "actions": [
+      [
+        5,
+        0,
+        14.933313
+      ]
+    ]
+  },
+  "Shooting 21": {
+    "subset": "testing",
+    "duration": 14.933313,
+    "actions": [
+      [
+        5,
+        0,
+        14.933313
+      ]
+    ]
+  },
+  "Shooting 25": {
+    "subset": "testing",
+    "duration": 14.933313,
+    "actions": [
+      [
+        5,
+        0,
+        14.933313
+      ]
+    ]
+  },
+  "Shooting 22": {
+    "subset": "testing",
+    "duration": 14.933313,
+    "actions": [
+      [
+        5,
+        0,
+        14.933313
+      ]
+    ]
+  },
+  "Shooting 24": {
+    "subset": "training",
+    "duration": 14.933313,
+    "actions": [
+      [
+        5,
+        0,
+        14.933313
+      ]
+    ]
+  },
+  "Shooting 38": {
+    "subset": "testing",
+    "duration": 5.418646,
+    "actions": [
+      [
+        5,
+        0,
+        5.418646
+      ]
+    ]
+  },
+  "Shooting 36": {
+    "subset": "training",
+    "duration": 5.418646,
+    "actions": [
+      [
+        5,
+        0,
+        5.418646
+      ]
+    ]
+  },
+  "Shooting 39": {
+    "subset": "training",
+    "duration": 5.418646,
+    "actions": [
+      [
+        5,
+        0,
+        5.418646
+      ]
+    ]
+  },
+  "Shooting 37": {
+    "subset": "training",
+    "duration": 5.418646,
+    "actions": [
+      [
+        5,
+        0,
+        5.418646
+      ]
+    ]
+  },
+  "Shooting 40": {
+    "subset": "testing",
+    "duration": 5.418646,
+    "actions": [
+      [
+        5,
+        0,
+        5.418646
+      ]
+    ]
+  },
+  "Shooting 10": {
+    "subset": "training",
+    "duration": 14.997313,
+    "actions": [
+      [
+        5,
+        0,
+        14.997313
+      ]
+    ]
+  },
+  "Shooting 11": {
+    "subset": "training",
+    "duration": 17.066646,
+    "actions": [
+      [
+        5,
+        0,
+        17.066646
+      ]
+    ]
+  },
+  "Shoot_201_2A": {
+    "subset": "training",
+    "duration": 12.283333,
+    "actions": [
+      [
+        5,
+        0,
+        12.283333
+      ]
+    ]
+  },
+  "Shoot_205_2A": {
+    "subset": "testing",
+    "duration": 12.260133,
+    "actions": [
+      [
+        5,
+        0,
+        12.260133
+      ]
+    ]
+  },
+  "Shoot_204_2A": {
+    "subset": "training",
+    "duration": 12.283333,
+    "actions": [
+      [
+        5,
+        0,
+        12.283333
+      ]
+    ]
+  },
+  "Shoot_206_2A": {
+    "subset": "testing",
+    "duration": 12.283333,
+    "actions": [
+      [
+        5,
+        0,
+        12.283333
+      ]
+    ]
+  },
+  "Shoot_202_2A": {
+    "subset": "testing",
+    "duration": 12.283333,
+    "actions": [
+      [
+        5,
+        0,
+        12.283333
+      ]
+    ]
+  },
+  "Shoot_203_2A": {
+    "subset": "training",
+    "duration": 12.283333,
+    "actions": [
+      [
+        5,
+        0,
+        12.283333
+      ]
+    ]
+  },
+  "Shooting8": {
+    "subset": "training",
+    "duration": 21.781313,
+    "actions": [
+      [
+        5,
+        0,
+        21.781313
+      ]
+    ]
+  },
+  "Shooting6": {
+    "subset": "training",
+    "duration": 21.781313,
+    "actions": [
+      [
+        5,
+        0,
+        21.781313
+      ]
+    ]
+  },
+  "Shooting7": {
+    "subset": "training",
+    "duration": 21.781313,
+    "actions": [
+      [
+        5,
+        0,
+        21.781313
+      ]
+    ]
+  },
+  "Shooting4": {
+    "subset": "training",
+    "duration": 8.767979,
+    "actions": [
+      [
+        5,
+        0,
+        8.767979
+      ]
+    ]
+  },
+  "Shooting1": {
+    "subset": "training",
+    "duration": 8.853313,
+    "actions": [
+      [
+        5,
+        0,
+        8.853313
+      ]
+    ]
+  },
+  "Shooting2": {
+    "subset": "testing",
+    "duration": 8.767979,
+    "actions": [
+      [
+        5,
+        0,
+        8.767979
+      ]
+    ]
+  },
+  "Shooting3": {
+    "subset": "training",
+    "duration": 8.767979,
+    "actions": [
+      [
+        5,
+        0,
+        8.767979
+      ]
+    ]
+  },
+  "Shooting 20": {
+    "subset": "training",
+    "duration": 22.101313,
+    "actions": [
+      [
+        5,
+        0,
+        22.101313
+      ]
+    ]
+  },
+  "Shooting 18": {
+    "subset": "training",
+    "duration": 22.741313,
+    "actions": [
+      [
+        5,
+        0,
+        22.741313
+      ]
+    ]
+  },
+  "Shooting 19": {
+    "subset": "testing",
+    "duration": 21.909313,
+    "actions": [
+      [
+        5,
+        0,
+        21.909313
+      ]
+    ]
+  },
+  "Shooting 17": {
+    "subset": "testing",
+    "duration": 34.389313,
+    "actions": [
+      [
+        5,
+        0,
+        34.389313
+      ]
+    ]
+  },
+  "Shooting 16": {
+    "subset": "training",
+    "duration": 34.389313,
+    "actions": [
+      [
+        5,
+        0,
+        34.389313
+      ]
+    ]
+  },
+  "Shooting 15": {
+    "subset": "training",
+    "duration": 34.389313,
+    "actions": [
+      [
+        5,
+        0,
+        34.389313
+      ]
+    ]
+  },
+  "Shooting 14": {
+    "subset": "training",
+    "duration": 34.389313,
+    "actions": [
+      [
+        5,
+        0,
+        34.389313
+      ]
+    ]
+  },
+  "Shooting 6": {
+    "subset": "training",
+    "duration": 14.506646,
+    "actions": [
+      [
+        5,
+        0,
+        14.506646
+      ]
+    ]
+  },
+  "Shooting 8": {
+    "subset": "training",
+    "duration": 12.885313,
+    "actions": [
+      [
+        5,
+        0,
+        12.885313
+      ]
+    ]
+  },
+  "Shooting 7": {
+    "subset": "training",
+    "duration": 13.653313,
+    "actions": [
+      [
+        5,
+        0,
+        13.653313
+      ]
+    ]
+  },
+  "Shooting 9": {
+    "subset": "testing",
+    "duration": 21.397313,
+    "actions": [
+      [
+        5,
+        0,
+        21.397313
+      ]
+    ]
+  },
+  "Shooting 5": {
+    "subset": "testing",
+    "duration": 17.173313,
+    "actions": [
+      [
+        5,
+        0,
+        17.173313
+      ]
+    ]
+  },
+  "Shooting16": {
+    "subset": "training",
+    "duration": 17.706646,
+    "actions": [
+      [
+        5,
+        0,
+        17.706646
+      ]
+    ]
+  },
+  "Shooting17": {
+    "subset": "testing",
+    "duration": 17.706646,
+    "actions": [
+      [
+        5,
+        0,
+        17.706646
+      ]
+    ]
+  },
+  "Shooting15": {
+    "subset": "testing",
+    "duration": 17.706646,
+    "actions": [
+      [
+        5,
+        0,
+        17.706646
+      ]
+    ]
+  },
+  "Shooting14": {
+    "subset": "training",
+    "duration": 17.706646,
+    "actions": [
+      [
+        5,
+        0,
+        17.706646
+      ]
+    ]
+  },
+  "Shooting19": {
+    "subset": "training",
+    "duration": 29.589313,
+    "actions": [
+      [
+        5,
+        0,
+        29.589313
+      ]
+    ]
+  },
+  "Shooting20": {
+    "subset": "training",
+    "duration": 29.589313,
+    "actions": [
+      [
+        5,
+        0,
+        29.589313
+      ]
+    ]
+  },
+  "Shooting18": {
+    "subset": "training",
+    "duration": 29.589313,
+    "actions": [
+      [
+        5,
+        0,
+        29.589313
+      ]
+    ]
+  },
+  "Shooting 12": {
+    "subset": "testing",
+    "duration": 32.511979,
+    "actions": [
+      [
+        5,
+        0,
+        32.511979
+      ]
+    ]
+  },
+  "Shooting 13": {
+    "subset": "testing",
+    "duration": 32.511979,
+    "actions": [
+      [
+        5,
+        0,
+        32.511979
+      ]
+    ]
+  },
+  "Shooting 31": {
+    "subset": "training",
+    "duration": 18.090646,
+    "actions": [
+      [
+        5,
+        0,
+        18.090646
+      ]
+    ]
+  },
+  "Shooting 32": {
+    "subset": "training",
+    "duration": 13.567979,
+    "actions": [
+      [
+        5,
+        0,
+        13.567979
+      ]
+    ]
+  },
+  "Shooting 33": {
+    "subset": "training",
+    "duration": 19.839979,
+    "actions": [
+      [
+        5,
+        0,
+        19.839979
+      ]
+    ]
+  },
+  "Shooting 35": {
+    "subset": "training",
+    "duration": 12.991979,
+    "actions": [
+      [
+        5,
+        0,
+        12.991979
+      ]
+    ]
+  },
+  "Shooting 34": {
+    "subset": "training",
+    "duration": 17.002646,
+    "actions": [
+      [
+        5,
+        0,
+        17.002646
+      ]
+    ]
+  },
+  "Shooting 30": {
+    "subset": "training",
+    "duration": 15.530646,
+    "actions": [
+      [
+        5,
+        0,
+        15.530646
+      ]
+    ]
+  },
+  "Shooting 27": {
+    "subset": "training",
+    "duration": 15.231979,
+    "actions": [
+      [
+        5,
+        0,
+        15.231979
+      ]
+    ]
+  },
+  "Shooting 26": {
+    "subset": "training",
+    "duration": 15.359979,
+    "actions": [
+      [
+        5,
+        0,
+        15.359979
+      ]
+    ]
+  },
+  "Shooting 28": {
+    "subset": "training",
+    "duration": 15.402646,
+    "actions": [
+      [
+        5,
+        0,
+        15.402646
+      ]
+    ]
+  },
+  "Shooting 29": {
+    "subset": "training",
+    "duration": 15.189313,
+    "actions": [
+      [
+        5,
+        0,
+        15.189313
+      ]
+    ]
+  },
+  "Kill_203_2A": {
+    "subset": "testing",
+    "duration": 4.643967,
+    "actions": [
+      [
+        5,
+        0,
+        4.643967
+      ]
+    ]
+  },
+  "Kill_204_2A": {
+    "subset": "training",
+    "duration": 4.6904,
+    "actions": [
+      [
+        5,
+        0,
+        4.6904
+      ]
+    ]
+  },
+  "Kill_206_2A": {
+    "subset": "testing",
+    "duration": 4.643967,
+    "actions": [
+      [
+        5,
+        0,
+        4.643967
+      ]
+    ]
+  },
+  "Kill_205_2A": {
+    "subset": "training",
+    "duration": 4.643967,
+    "actions": [
+      [
+        5,
+        0,
+        4.643967
+      ]
+    ]
+  },
+  "Kill_202_2A": {
+    "subset": "training",
+    "duration": 4.643967,
+    "actions": [
+      [
+        5,
+        0,
+        4.643967
+      ]
+    ]
+  },
+  "Kill_201_2A": {
+    "subset": "training",
+    "duration": 4.6904,
+    "actions": [
+      [
+        5,
+        0,
+        4.6904
+      ]
+    ]
+  },
+  "Police_202_2A": {
+    "subset": "testing",
+    "duration": 3.552633,
+    "actions": [
+      [
+        5,
+        0,
+        3.552633
+      ]
+    ]
+  },
+  "Police_205_2A": {
+    "subset": "testing",
+    "duration": 3.552633,
+    "actions": [
+      [
+        5,
+        0,
+        3.552633
+      ]
+    ]
+  },
+  "Police_201_2A": {
+    "subset": "testing",
+    "duration": 3.552633,
+    "actions": [
+      [
+        5,
+        0,
+        3.552633
+      ]
+    ]
+  },
+  "Police_203_2A": {
+    "subset": "training",
+    "duration": 3.552633,
+    "actions": [
+      [
+        5,
+        0,
+        3.552633
+      ]
+    ]
+  },
+  "Police_204_2A": {
+    "subset": "training",
+    "duration": 3.552633,
+    "actions": [
+      [
+        5,
+        0,
+        3.552633
+      ]
+    ]
+  },
+  "Shooting9": {
+    "subset": "training",
+    "duration": 32.191979,
+    "actions": [
+      [
+        5,
+        0,
+        32.191979
+      ]
+    ]
+  },
+  "Shooting11": {
+    "subset": "testing",
+    "duration": 32.191979,
+    "actions": [
+      [
+        5,
+        0,
+        32.191979
+      ]
+    ]
+  },
+  "Shooting10": {
+    "subset": "training",
+    "duration": 32.191979,
+    "actions": [
+      [
+        5,
+        0,
+        32.191979
+      ]
+    ]
+  },
+  "Shooting 4": {
+    "subset": "training",
+    "duration": 12.138646,
+    "actions": [
+      [
+        5,
+        0,
+        12.138646
+      ]
+    ]
+  },
+  "Shooting 1": {
+    "subset": "training",
+    "duration": 9.877313,
+    "actions": [
+      [
+        5,
+        0,
+        9.877313
+      ]
+    ]
+  },
+  "Shooting 3": {
+    "subset": "training",
+    "duration": 11.967979,
+    "actions": [
+      [
+        5,
+        0,
+        11.967979
+      ]
+    ]
+  },
+  "Shooting 2": {
+    "subset": "training",
+    "duration": 10.666646,
+    "actions": [
+      [
+        5,
+        0,
+        10.666646
+      ]
+    ]
+  },
+  "Vandalism20": {
+    "subset": "training",
+    "duration": 33.557313,
+    "actions": [
+      [
+        6,
+        0,
+        33.557313
+      ]
+    ]
+  },
+  "Vandalism19": {
+    "subset": "training",
+    "duration": 33.557313,
+    "actions": [
+      [
+        6,
+        0,
+        33.557313
+      ]
+    ]
+  },
+  "Vandalism18": {
+    "subset": "training",
+    "duration": 33.557313,
+    "actions": [
+      [
+        6,
+        0,
+        33.557313
+      ]
+    ]
+  },
+  "Vandalism17": {
+    "subset": "testing",
+    "duration": 33.557313,
+    "actions": [
+      [
+        6,
+        0,
+        33.557313
+      ]
+    ]
+  },
+  "Vandalism11": {
+    "subset": "training",
+    "duration": 34.858646,
+    "actions": [
+      [
+        6,
+        0,
+        34.858646
+      ]
+    ]
+  },
+  "Vandalism8": {
+    "subset": "training",
+    "duration": 34.858646,
+    "actions": [
+      [
+        6,
+        0,
+        34.858646
+      ]
+    ]
+  },
+  "Vandalism9": {
+    "subset": "testing",
+    "duration": 34.858646,
+    "actions": [
+      [
+        6,
+        0,
+        34.858646
+      ]
+    ]
+  },
+  "Vandalism10": {
+    "subset": "training",
+    "duration": 34.858646,
+    "actions": [
+      [
+        6,
+        0,
+        34.858646
+      ]
+    ]
+  },
+  "Vandalism24": {
+    "subset": "training",
+    "duration": 19.434646,
+    "actions": [
+      [
+        6,
+        0,
+        19.434646
+      ]
+    ]
+  },
+  "Vandalism23": {
+    "subset": "testing",
+    "duration": 19.434646,
+    "actions": [
+      [
+        6,
+        0,
+        19.434646
+      ]
+    ]
+  },
+  "Vandalism21": {
+    "subset": "testing",
+    "duration": 19.434646,
+    "actions": [
+      [
+        6,
+        0,
+        19.434646
+      ]
+    ]
+  },
+  "Vandalism22": {
+    "subset": "training",
+    "duration": 19.434646,
+    "actions": [
+      [
+        6,
+        0,
+        19.434646
+      ]
+    ]
+  },
+  "Vandalism3": {
+    "subset": "training",
+    "duration": 31.167979,
+    "actions": [
+      [
+        6,
+        0,
+        31.167979
+      ]
+    ]
+  },
+  "Vandalism2": {
+    "subset": "training",
+    "duration": 31.167979,
+    "actions": [
+      [
+        6,
+        0,
+        31.167979
+      ]
+    ]
+  },
+  "Vandalism1": {
+    "subset": "training",
+    "duration": 31.167979,
+    "actions": [
+      [
+        6,
+        0,
+        31.167979
+      ]
+    ]
+  },
+  "Vandalism26": {
+    "subset": "training",
+    "duration": 15.658646,
+    "actions": [
+      [
+        6,
+        0,
+        15.658646
+      ]
+    ]
+  },
+  "Vandalism28": {
+    "subset": "training",
+    "duration": 15.658646,
+    "actions": [
+      [
+        6,
+        0,
+        15.658646
+      ]
+    ]
+  },
+  "Vandalism27": {
+    "subset": "training",
+    "duration": 15.658646,
+    "actions": [
+      [
+        6,
+        0,
+        15.658646
+      ]
+    ]
+  },
+  "Vandalism16": {
+    "subset": "training",
+    "duration": 15.658646,
+    "actions": [
+      [
+        6,
+        0,
+        15.658646
+      ]
+    ]
+  },
+  "Vandalism25": {
+    "subset": "training",
+    "duration": 15.658646,
+    "actions": [
+      [
+        6,
+        0,
+        15.658646
+      ]
+    ]
+  },
+  "video-3": {
+    "subset": "testing",
+    "duration": 5.387,
+    "actions": [
+      [
+        6,
+        0,
+        5.387
+      ]
+    ]
+  },
+  "video-2": {
+    "subset": "training",
+    "duration": 5.387,
+    "actions": [
+      [
+        6,
+        0,
+        5.387
+      ]
+    ]
+  },
+  "video-8": {
+    "subset": "training",
+    "duration": 7.4536,
+    "actions": [
+      [
+        6,
+        0,
+        7.4536
+      ]
+    ]
+  },
+  "video-6": {
+    "subset": "training",
+    "duration": 7.4536,
+    "actions": [
+      [
+        6,
+        0,
+        7.4536
+      ]
+    ]
+  },
+  "video-5": {
+    "subset": "training",
+    "duration": 5.387,
+    "actions": [
+      [
+        6,
+        0,
+        5.387
+      ]
+    ]
+  },
+  "video-7": {
+    "subset": "training",
+    "duration": 7.4536,
+    "actions": [
+      [
+        6,
+        0,
+        7.4536
+      ]
+    ]
+  },
+  "video": {
+    "subset": "training",
+    "duration": 5.340567,
+    "actions": [
+      [
+        6,
+        0,
+        5.340567
+      ]
+    ]
+  },
+  "video-9": {
+    "subset": "training",
+    "duration": 7.4074,
+    "actions": [
+      [
+        6,
+        0,
+        7.4074
+      ]
+    ]
+  },
+  "video-4": {
+    "subset": "training",
+    "duration": 5.387,
+    "actions": [
+      [
+        6,
+        0,
+        5.387
+      ]
+    ]
+  },
+  "Vandalism14": {
+    "subset": "training",
+    "duration": 22.975979,
+    "actions": [
+      [
+        6,
+        0,
+        22.975979
+      ]
+    ]
+  },
+  "Vandalism12": {
+    "subset": "training",
+    "duration": 22.975979,
+    "actions": [
+      [
+        6,
+        0,
+        22.975979
+      ]
+    ]
+  },
+  "Vandalism15": {
+    "subset": "training",
+    "duration": 22.975979,
+    "actions": [
+      [
+        6,
+        0,
+        22.975979
+      ]
+    ]
+  },
+  "Vandalism5": {
+    "subset": "testing",
+    "duration": 16.597313,
+    "actions": [
+      [
+        6,
+        0,
+        16.597313
+      ]
+    ]
+  },
+  "Vandalism4": {
+    "subset": "training",
+    "duration": 16.597313,
+    "actions": [
+      [
+        6,
+        0,
+        16.597313
+      ]
+    ]
+  },
+  "Vandalism7": {
+    "subset": "training",
+    "duration": 16.597313,
+    "actions": [
+      [
+        6,
+        0,
+        16.597313
+      ]
+    ]
+  },
+  "Vandalism6": {
+    "subset": "training",
+    "duration": 16.597313,
+    "actions": [
+      [
+        6,
+        0,
+        16.597313
+      ]
+    ]
+  }
+}
